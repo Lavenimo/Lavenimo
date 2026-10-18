@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davin</h1>
+<h1 align="center">Hi 👋, I'm nata</h1>
 
 <p align="center">
   <b>Student</b>
@@ -48,8 +48,8 @@
 
 ###  GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-Davin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKSP-Davin&layout=compact&langs_count=4&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=IKSP-nata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IKSP-nata&layout=compact&langs_count=4&theme=radical"/>
 </p>
 
 ---
